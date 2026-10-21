@@ -1,0 +1,6 @@
+{
+  "name": "claude-work-plan",
+  "description": "Мод «План работ» для Claude Code: панель с планом, статусами, комментариями и бэклогом",
+  "owner": { "name": "Marlin-in-Russia" },
+  "plugins": [{ "name": "work-plan", "source": "./" }]
+}
